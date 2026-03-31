@@ -19,8 +19,6 @@ A verification stack for neural AI, phase by phase:
 |-------|--------|---------|--------|
 | **A** | [Apoha](https://huggingface.co/EVAMLab) | Exclusion-based classification with principled OOD rejection | **Live** |
 | B | Hetuchakra | Formal verification gate for LLM outputs | In progress |
-| C | Pratibandha | Causal inference via do-calculus | Planned |
-| D | Pramāṇa | Belief revision and feedback loop | Planned |
 
 ---
 
