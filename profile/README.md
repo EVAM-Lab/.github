@@ -44,7 +44,7 @@ Not a guess. Not a hallucination. A principled refusal to classify.
 
 We are a monk and an engineer trying to find out how far ancient formal logic can take modern AI. We are building a verification layer for AI classifiers and LLMs that rejects out-of-distribution inputs and flags hallucinations.
 
-**Dobdon Maksarov** — Buddhist monk and scholar. Geshe Lharampa degree after 23 years of monastic education at Drepung Gomang Monastic University. MA Buddhist Studies, SOAS (2022). PhD researcher, SOAS University of London. Reads Dignāga and Dharmakīrti in Sanskrit and Tibetan. Designed the formal logical mappings that are the foundation of BUDDHI.
+**Dobdon Maksarov** — researcher in philosophy and religion. Hold Geshe Lharampa (highest degree in Buddhist philosophy) after 23 years at Drepung Gomang Monastic University. MA Buddhist Studies, SOAS (2022). PhD researcher, SOAS University of London. Reads Dignāga and Dharmakīrti in Sanskrit and Tibetan.
 
 https://www.soas.ac.uk/about/dobdon-maksarov
 
