@@ -17,7 +17,7 @@ A verification stack for neural AI, phase by phase:
 
 | Phase | Module | Concept | Status |
 |-------|--------|---------|--------|
-| **A** | [Apoha](https://huggingface.co/EVAMLab) | Exclusion-based classification with principled OOD rejection | **Live** |
+| **A** | [Apoha] | Exclusion-based classification with principled OOD rejection | **Live** |
 | B | Hetuchakra | Formal verification gate for LLM outputs | In progress |
 
 ---
@@ -35,23 +35,6 @@ Not a guess. Not a hallucination. A principled refusal to classify.
 - Banking77: contrastive baselines reject **0%** of OOD. Apoha rejects **29%**.
 - HWU64: **166× better** OOD rejection than InfoNCE
 
-🤗 [Model weights + inference code on HuggingFace](https://huggingface.co/EVAMLab)
-📄 [Preprint (ArXiv)] *(coming soon)*
-
----
-
-## The Team
-
-We are a researcher and an engineer trying to find out how far ancient formal logic can take modern AI. We are building a verification layer for AI classifiers and LLMs that rejects out-of-distribution inputs and flags hallucinations.
-
-**Dobdon Maksarov** — researcher in philosophy and religion. Hold Geshe Lharampa (highest degree in Buddhist philosophy) after 23 years at Drepung Gomang Monastic University. MA Buddhist Studies, SOAS (2022). PhD researcher, SOAS University of London. Reads Dignāga and Dharmakīrti in Sanskrit and Tibetan.
-
-https://www.soas.ac.uk/about/dobdon-maksarov
-
-**Alexander Khundoev** — Software engineer, 15 years building electronic trading systems for major investment banks, where a bug costs real money and a missed deadline costs more. Mathematics degree (NSU). Now applying the same instinct for correctness to AI safety — implementing 1,500-year-old Buddhist logic as ML infrastructure that knows when to say "I don't know.
-
-https://www.linkedin.com/in/alexanderkhundoev 
-
 ---
 
 ## Philosophy
@@ -62,11 +45,3 @@ These are not metaphors. Dignāga's exclusion theory maps onto hard-negative min
 
 > *"A concept is not defined by what it includes, but by what it excludes."*
 > — Dignāga, *Pramāṇasamuccaya* (c. 480–540 CE)
-
----
-
-## Contact
-
-dobdon.maksarov@gmail.com · alexander.khundoev@gmail.com
-
-© 2026 Dobdon Maksarov and Alexander Khundoev. All rights reserved.
